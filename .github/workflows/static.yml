@@ -27,7 +27,7 @@ jobs:
       - name: Copy dashboard.html to publish directory
         run: |
           mkdir -p public
-          cp graph/dashboard.html public/index.html  # Copier dashboard.html comme index.html
+          cp graphs/dashboard.html public/index.html  # Copier dashboard.html comme index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
