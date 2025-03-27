@@ -77,12 +77,4 @@ Ce projet m'a permis de :
 - Créer des visualisations interactives
 - Optimiser le traitement des données
 
-## 🤝 Contribution
-N'hésitez pas à contribuer à ce projet en :
-- Proposant des améliorations
-- Signalant des bugs
-- Ajoutant de nouvelles fonctionnalités
-
-## 📝 Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
