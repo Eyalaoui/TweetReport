@@ -1,0 +1,31 @@
+Analyse des sujets principaux des tweets Saegus
+==========================================
+
+Top 10 des sujets les plus fréquents :
+- rejoindre: 0.3224
+- distance: 0.2837
+- équipe: 0.2708
+- webinaire: 0.2192
+- projet: 0.2064
+- retrouver: 0.1935
+- travail: 0.1806
+- webinar: 0.1806
+- animer: 0.1677
+- digital: 0.1548
+
+Exemples de tweets par sujet principal :
+
+rejoindre:
+- Live avec et sur les entreprises face aux nouvelles methodes de travail. Pour nous rejoindre :...
+
+distance:
+- Now LIVE ! Retrouvez Cédric, Manager Workplace pour une démo complète grâce au Surface Hub de afin d...
+
+équipe:
+- RT : Citation du jour📚 "Il faut souligner la qualité de l'équipe pédagogique qui est dévouée, dispon...
+
+webinaire:
+- WEBINAIRE : déployer un programme d’adoption à l’international en agile ☄️ En 45 min, nos expert·e·s...
+
+projet:
+- s’offre 5 nouvelles fonctionnalités pour ses 10 ans ! Vue d’ensemble pour planifier les objectifs de...

@@ -1,0 +1,2235 @@
+{
+  "metadata": {
+    "total_tweets": 100,
+    "retrieved_at": "2025-03-26T17:31:28.121339"
+  },
+  "tweets": [
+    {
+      "id": 1664557750016147456,
+      "created_at": "2023-06-02T09:01:08+00:00",
+      "text": "WEBINAR : découvrez deux démonstrateurs d'IA générative développés par en s'appuyant sur les technologies proposées par sur Azure OpenAI. Rendez-vous le mardi 13 juin à 10h. Pour vous inscrire 👇",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1458878052461654017,
+      "created_at": "2021-11-11T19:23:27+00:00",
+      "text": "RT : 📰 Présidentielle 2022, sondage Odoxa sur 🗳️ 25% des 18-34ans prêts à voter Le Pen au 1er tour…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 10,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1458877884647583747,
+      "created_at": "2021-11-11T19:22:46+00:00",
+      "text": "RT : 🗳️ Présidentielle 2022 : Zemmour recule 📊 Suivi des intentions de vote pour Macr…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 82,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1458877853378953217,
+      "created_at": "2021-11-11T19:22:39+00:00",
+      "text": "RT : 🗳️ Présidentielle 2022 : suivi des intentions de vote pour 1⃣8⃣ - 3⃣4⃣ ans Le Pen (2…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 13,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1458877814833352705,
+      "created_at": "2021-11-11T19:22:30+00:00",
+      "text": "RT : 🗳️ Présidentielle 2022 : Zemmour recule 📊 Suivi des intentions de vote pour Macron…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 18,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1413165534535950340,
+      "created_at": "2021-07-08T15:58:13+00:00",
+      "text": "5 questions à , VP Customer Management chez notre partenaire . Qui est LumApps ? Qu’est-ce qu’une plateforme d’expérience employé ? Et bien plus 👇",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1412839763489480715,
+      "created_at": "2021-07-07T18:23:43+00:00",
+      "text": "RT : Citation du jour📚 \"Il faut souligner la qualité de l'équipe pédagogique qui est dévouée, disponible et fort sympathiq…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1412839751783170053,
+      "created_at": "2021-07-07T18:23:40+00:00",
+      "text": "Quel plaisir de se retrouver pour la Garden Party organisée par notre Squad convivialité ❤️",
+      "public_metrics": {
+        "like_count": 4,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "retrouver",
+          "score": 0.19345580813353422
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1412089140783587332,
+      "created_at": "2021-07-05T16:41:01+00:00",
+      "text": "Un réél plaisir de retrouver nos équipes (en partie) pour une nouvelle edition du Saeg’up en mode hybride 🚀",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "retrouver",
+          "score": 0.19345580813353422
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1412024370999054339,
+      "created_at": "2021-07-05T12:23:38+00:00",
+      "text": "RT : « Board Hybrid permet de créer une véritable expérience immersive : plus besoin d'aller chercher différents liens, tous les…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 3,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1408045138484645891,
+      "created_at": "2021-06-24T12:51:35+00:00",
+      "text": "« Il faut réinventer le métier de manager » Directrice de l’environnement digital des salariés sur « les entreprises face aux nouvelles méthodes de travail »",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1408044561214148612,
+      "created_at": "2021-06-24T12:49:18+00:00",
+      "text": "Live avec et sur les entreprises face aux nouvelles methodes de travail. Pour nous rejoindre :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rejoindre",
+          "score": 0.3224263468892237
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1402291743161262081,
+      "created_at": "2021-06-08T15:49:39+00:00",
+      "text": "Les entreprises face aux nouvelles méthodes de travail - le 24 juin prochain, à 14h30 avec : , Directrice de l’environnement digital des salariés Orange, , CEO &amp; , CEO . Inscriptions👉🏻",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1400160007950323713,
+      "created_at": "2021-06-02T18:38:54+00:00",
+      "text": "Retrouvez tous les résultats de notre étude sur les nouvelles méthodes de travail, en partenariat avec , demain à 18h 👀",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1400159126685204483,
+      "created_at": "2021-06-02T18:35:24+00:00",
+      "text": "\"Alterner présentiel et télétravail : 60% des Français·es craignent un déséquilibre entre leur vie professionnelle et personnelle.\"",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1400158990080819202,
+      "created_at": "2021-06-02T18:34:51+00:00",
+      "text": "\"Les entreprises appelant à un retour au travail mesuré, l’hybride working va se démocratiser dans les mois à venir : il va falloir mettre un place les usages et les outils adaptés.\" David Guedj, Associé co-fondateur de , sur le plateau de Tech&amp;Co de",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "venir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1400156572035293199,
+      "created_at": "2021-06-02T18:25:15+00:00",
+      "text": "It's time ! Retrouvez-nous en direct sur le plateau de Tech&amp;Co de 👉",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 1
+      },
+      "main_topics": []
+    },
+    {
+      "id": 1399759782295265282,
+      "created_at": "2021-06-01T16:08:33+00:00",
+      "text": "Un échange pour découvrir et mettre en perspective les premiers résultats de notre étude menée en collaboration avec . Stay tuned pour la publication des résultats complets ce jeudi 👀",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "découvrir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1399759689135570951,
+      "created_at": "2021-06-01T16:08:10+00:00",
+      "text": "Nouvelles méthodes de travail : salariés et entreprises sont-ils prêts ? Retrouvez l'entretien de David Guedj, Associé co-fondateur de , avec sur le plateau de l'émission Tech&amp;Co de , demain à 20h15.",
+      "public_metrics": {
+        "like_count": 3,
+        "retweet_count": 0,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1397832472637939712,
+      "created_at": "2021-05-27T08:30:06+00:00",
+      "text": "Merci à nos deux invités pour leur participation et aux participant·e·s pour leurs questions intéressantes ! Le replay est disponible, demandez-le nous en MP ou en réponse à ce tweet 👇",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1397832202826797060,
+      "created_at": "2021-05-27T08:29:02+00:00",
+      "text": "Mardi avait lieu notre table ronde sur les enjeux de la reconnaissance faciale avec , Député et Vice-Président de l', , Président co-fondateur d' et Frédéric Brajon, Associé co-fondateur de .",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 1,
+        "reply_count": 1
+      },
+      "main_topics": []
+    },
+    {
+      "id": 1397831807127728129,
+      "created_at": "2021-05-27T08:27:27+00:00",
+      "text": "Merci à nos deux invités pour leur participation et aux participant·e·s pour leurs questions intéressantes ! Le replay est disponible, demandez-le nous en MP ou en réponse à ce tweet 🚀",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1395761573260578819,
+      "created_at": "2021-05-21T15:21:05+00:00",
+      "text": "RT : état des lieux législatifs et positions des français sur ces usages et technologies associées. Risque…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 2,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1395761543367823363,
+      "created_at": "2021-05-21T15:20:58+00:00",
+      "text": "RT : [Veille] -💻︎ 26% des français n'éprouvent pas le besoin de retourner travailler en présentiel après la crise sanitaire…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1395401932051734530,
+      "created_at": "2021-05-20T15:32:00+00:00",
+      "text": "TABLE RONDE Les enjeux de la reconnaissance faciale Retrouvez , Député et Vice-Président de l', Frédéric Brajon, Associé co-fondateur de et , Président d' le 25 mai, à 18h. Pour vous inscrire 👇",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1392041466994860038,
+      "created_at": "2021-05-11T08:58:43+00:00",
+      "text": "Frédéric Brajon, Directeur associé et Co-fondateur de , a eu le plaisir d'échanger avec Jean-Marc Sylvestre sur le plateau de Business Inside pour . En prime, un entretien avec , notre Président et Co-fondateur. 👇",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": []
+    },
+    {
+      "id": 1389867046343749639,
+      "created_at": "2021-05-05T08:58:20+00:00",
+      "text": "Qui de mieux que l'un de nos associés pour vous faire mieux connaître Saegus et son histoire ? Qu’est-ce qu’une ConsulTech ? Comment être une entreprise attractive ? À quoi ressemble le quotidien des saegusien·ne·s ? À retrouver dans l’interview 👇",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "retrouver",
+          "score": 0.19345580813353422
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1385608429880872962,
+      "created_at": "2021-04-23T14:56:07+00:00",
+      "text": "RT : 👩🏿‍💻 Le futur du travail, c'est aussi l'inclusion de tous les collaborateurs",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 3,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1375379854116450304,
+      "created_at": "2021-03-26T09:31:25+00:00",
+      "text": "\"Comment cultiver les talents de son entreprise\" ? dès 13h00 aujourd'hui sur Clubhouse avec l'intervention de notre co-founder ! 👉🏻",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1374761478453071884,
+      "created_at": "2021-03-24T16:34:12+00:00",
+      "text": "Portrait d'une coach agile et PMO auprés d\"équipes métiers et IT :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1372480915067244546,
+      "created_at": "2021-03-18T09:32:04+00:00",
+      "text": "RT : Bonjour, Le témoignage sur le site Microsoft d'une de nos réalisations sur Power Platform en collaboration avec …",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1371872641070604294,
+      "created_at": "2021-03-16T17:15:00+00:00",
+      "text": "s’offre 5 nouvelles fonctionnalités pour ses 10 ans ! Vue d’ensemble pour planifier les objectifs de votre équipe, données pour piloter votre projet, calendrier pour prioriser vos tâches... 5 fonctionnalités, 5 cas d'usages présentés en détail 👉",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        }
+      ]
+    },
+    {
+      "id": 1371870824458772480,
+      "created_at": "2021-03-16T17:07:47+00:00",
+      "text": "s’offre 5 nouvelles fonctionnalités pour ses 10 ans ! Vue d’ensemble pour planifier les objectifs de votre équipe, données pour piloter votre projet, calendrier pour prioriser vos tâches... 5 fonctionnalités, 5 cas d'usage présentés en détail 👉",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        }
+      ]
+    },
+    {
+      "id": 1371860100126797826,
+      "created_at": "2021-03-16T16:25:10+00:00",
+      "text": "Nous vous en parlions récemment : 1/4 télétravailleur ne ressent pas le besoin de retourner au bureau. étaye ce propos en revenant sur notre étude, le télétravail demeurant un sujet d'actualité. Retrouvez l’étude ici 👉",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1367235686584229895,
+      "created_at": "2021-03-03T22:09:24+00:00",
+      "text": "RT : Télétravail : le bilan après un an ▶️78% des télétravailleurs en ont une bonne image ▶️ Semaine idéale : la moitié du…",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 4,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1367194980205404172,
+      "created_at": "2021-03-03T19:27:39+00:00",
+      "text": "« 2,5 jours hebdomadaires c’est le nombre moyen plébiscité par les Français pour le télétravail »",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 2,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1367194662918885377,
+      "created_at": "2021-03-03T19:26:23+00:00",
+      "text": "« Les 18-24 sont plus de la moitié a estimé que la charge de travail est plus importante en télétravail, contre 36 pourcents pour les 50-64 ans »",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 1,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1367194468894580737,
+      "created_at": "2021-03-03T19:25:37+00:00",
+      "text": "« Plus de la moitié des jeunes pensent que le téletravail est moins efficace »",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 1,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        }
+      ]
+    },
+    {
+      "id": 1367194029201514502,
+      "created_at": "2021-03-03T19:23:52+00:00",
+      "text": "« Près d’un Français sur quatre a experimenté le télétravail depuis le début de la crise »",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 1,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1367191891666759684,
+      "created_at": "2021-03-03T19:15:22+00:00",
+      "text": "Notre président sur BFM Business dans quelques minutes sur &amp;co de pour parler des Français et du télétravail !",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 1,
+        "reply_count": 1
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1364974059575013378,
+      "created_at": "2021-02-25T16:22:30+00:00",
+      "text": "est une solution performante proposant un Data Warehouse reposant sur une infrastructure cloud : stockage de données, tarification, positionnement sur le marché - pour en savoir plus 👇🏼",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": []
+    },
+    {
+      "id": 1364606447804416001,
+      "created_at": "2021-02-24T16:01:44+00:00",
+      "text": "WEBINAIRE : déployer un programme d’adoption à l’international en agile ☄️ En 45 min, nos expert·e·s vous font découvrir les coulisses d’un projet récemment déployé en agile dans près de 100 pays. 📅 Lundi 01 mars ⏰ 12h00 Inscriptions :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "découvrir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1364262261280432133,
+      "created_at": "2021-02-23T17:14:04+00:00",
+      "text": "We should have warned we already had views on Mars 🚀🤯",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": []
+    },
+    {
+      "id": 1362084706049744897,
+      "created_at": "2021-02-17T17:01:14+00:00",
+      "text": "WEBINAIRE : 45' Chrono pour déployer un programme d'adoption à l'international en agile. Comment bien analyser le contexte et les attentes ? Quel dispositif (outils, organisation, rôles clés) choisir ? 📅Lundi 01 mars, 12h. Inscriptions 👉",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1360222121696313344,
+      "created_at": "2021-02-12T13:40:00+00:00",
+      "text": "WEBINAIRE : 45 minutes pour tout comprendre sur la migration vers Jira Software Cloud. Pourquoi migrer ? Comment ? A quel prix ? Quels sont les avantages du Cloud ? Mercredi 17 Février, à 13h00. Inscriptions 👉🏻",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        }
+      ]
+    },
+    {
+      "id": 1357344385277431814,
+      "created_at": "2021-02-04T15:04:54+00:00",
+      "text": "\", la plateforme optimisant la gouvernance de données\" Optimiser les ressources, revoir les processus ou réviser les business models : l’optimisation des données est incontournable pour les entreprises. Pour en découvrir plus :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "découvrir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1353746874726014977,
+      "created_at": "2021-01-25T16:49:40+00:00",
+      "text": "Trois nouvelles salles pour compléter l'offre digitale existante. Prenez part à la visite virtuelle de ces installations 👇🏼 N’hésitez pas à nous contacter pour davantage d'informations ou pour une visite IRL - lorsque les mesures sanitaires le permettront.",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1351817930187677696,
+      "created_at": "2021-01-20T09:04:44+00:00",
+      "text": "Théorie C-K : Comment générer des idées innovantes et différenciantes ? Rejoignez-nous demain pour un webinaire de 45 minutes lors duquel vous pourrez découvrir cette méthode grâce à une mise en pratique sur un cas concret. Pour vous inscrire :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "découvrir",
+          "score": 0.11607348488012054
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1351470296650424322,
+      "created_at": "2021-01-19T10:03:22+00:00",
+      "text": "Saegus signe son nouveau partenariat avec ! Notre ambition : explorer les usages collaboratifs pour répondre aux besoins des utilisateurs et leur offrir une expérience collaborative et créatrice de valeur. Retrouvez-nous ici :",
+      "public_metrics": {
+        "like_count": 4,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "nouveau",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1348928131772641281,
+      "created_at": "2021-01-12T09:41:43+00:00",
+      "text": "Les meetups Saegus sont de retour ! Et pour ce premier webinaire de 2021, nous introduisons le sujet passionnant des biais cognitifs et de leur impact sur le Design Thinking ! Pour vous inscrire :",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1347563465569939458,
+      "created_at": "2021-01-08T15:19:01+00:00",
+      "text": "Troisième table ronde by lors de laquelle vous pourrez rencontrer quatre expertes qui évoqueront avec vous comment le Design a pu accélérer une transformation d'entreprise. Pour vous inscrire :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1346751471803576323,
+      "created_at": "2021-01-06T09:32:26+00:00",
+      "text": "L’ensemble de Saegus tient à vous adresser ses meilleurs voeux pour l’année 2021. Un nouvelle année avec vous et pour vous. D’ici là, venez découvrir notre rétrospective et nos ambitions pour cette année 👇🏼",
+      "public_metrics": {
+        "like_count": 3,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "découvrir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1329453528251817985,
+      "created_at": "2020-11-19T15:56:35+00:00",
+      "text": "La banque est morte, vive la banque ». De quels moyens disposent les banques pour faire face aux enjeux futurs ? C’est la question qu’on a posé à Chanoux, co-founder de LumApps et , Client Executive Director chez Saegus. La réponse👇🏼",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1316397048552452096,
+      "created_at": "2020-10-14T15:14:48+00:00",
+      "text": "« Le hasard ne favorise que les esprits préparés » Découvrez notre nouvel article :",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1315663899857948673,
+      "created_at": "2020-10-12T14:41:32+00:00",
+      "text": "Décryptage de l'application \"My Neocoach\" de développée par mercredi à 11h30 pour notre nouveau format \"La Voix des Utilisateurs\". En partant des , quelles conclusions tirer ? Pour vous inscrire :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "nouveau",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1303242584618401794,
+      "created_at": "2020-09-08T08:03:39+00:00",
+      "text": "RT : [Watch] Une pour un monde durable et accessible fait de la sensibilisation aux enjeux environnementaux …",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 3,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1281261634930032641,
+      "created_at": "2020-07-09T16:19:13+00:00",
+      "text": "« Des frontières sont tombées. [...] Il y aura peut-être de l’hybridation. La solution ne se trouve pas dans les outils, mais dans les moyens de s’adapter ». Rafaël Stofer, Responsable Digital Workplace chez",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1281260379771936780,
+      "created_at": "2020-07-09T16:14:13+00:00",
+      "text": "« Une note très positive : les organisations et entreprises au sens large ont su, malgré elles, faire preuve d’une agilité et d’une capacité qui était très peu attendue. » Hadi Issa, Responsable Acceleration Tactics chez",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1281258979918831616,
+      "created_at": "2020-07-09T16:08:40+00:00",
+      "text": "Notre client a mentionné: « On est passé en une semaine, d’un monde dans lequel notre ADN n’était pas tourné vers le télétravail, à un bouleversement général, notamment grâce à Teams. […] Il aura fallu une crise pour comprendre la nécessité, et donc pour rattraper le retard. »",
+      "public_metrics": {
+        "like_count": 3,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1281257840506736641,
+      "created_at": "2020-07-09T16:04:08+00:00",
+      "text": "« Depuis le 16 mars, 39% des salariés ont expérimenté le télétravail, dont 25% durant toute la période. Certains secteurs d'activité n'ont pu l'expérimenter, à hauteur de 61%. » Rafaël Stofer, Responsable Digital Workplace chez",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1281255108559454208,
+      "created_at": "2020-07-09T15:53:17+00:00",
+      "text": "« Durant ce live event, nous allons voir dans quelles mesures l’adoption du télétravail, réalisée par les entreprises depuis 3 mois, pourrait devenir une nouvelle norme.» Rafaël Stofer, Responsable Digital Workplace chez",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        },
+        {
+          "topic": "venir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1281254280209608704,
+      "created_at": "2020-07-09T15:49:59+00:00",
+      "text": "👩‍💻 Notre table ronde d'experts vient de démarrer. Retrouvez les résultats et le bilan de nos experts Saegus, au sujet de l’adaptation des entreprises durant le confinement, ainsi que l’impact des usages mis en place durant cette période.",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "entreprise",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1266073803190423554,
+      "created_at": "2020-05-28T18:28:11+00:00",
+      "text": "« Le télétravail a des effets sur l’engagement, ce n’est pas forcement la reponse a tous les maux » Rafaël Stofer, Docteur en Sociologie et responsable Digital Workplace chez sur",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1266073263232425988,
+      "created_at": "2020-05-28T18:26:03+00:00",
+      "text": "« Il a fallu apprendre à réaménager ses journées, savoir quand commence et quand termine cette journee. Notre emploi du temps ne s’est pas du tout allégé » Rafaël Stofer, Docteur en Sociologie et responsable Digital Workplace chez sur",
+      "public_metrics": {
+        "like_count": 4,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1266072873187368963,
+      "created_at": "2020-05-28T18:24:30+00:00",
+      "text": "« Il faut faire la part des choses entre le téletravail d’une part et le confinement d’autre part » Rafaël Stofer, Docteur en Sociologie et Responsable des activités Digital Workplace chez dans l’émission &amp;co de",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1257689965967925255,
+      "created_at": "2020-05-05T15:13:49+00:00",
+      "text": "Now LIVE ! Retrouvez Cédric, Manager Workplace pour une démo complète grâce au Surface Hub de afin d'animer des ateliers avec des équipes \"hybrides\". Premier cas : Un Ice Breaker à distance ! Rejoignez nous dès à présent :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1257688081865609217,
+      "created_at": "2020-05-05T15:06:20+00:00",
+      "text": "Now LIVE ! Retrouvez Cédric Dauvillier, Digital Workplace Manager, pour une démo complète grâce au Surface Hub de afin d'animer des ateliers avec des équipes \"hybrides\". Rejoignez nous dès à présent :",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 2,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1257590176639062016,
+      "created_at": "2020-05-05T08:37:17+00:00",
+      "text": "📅 Aujourd'hui, 17h. Retrouvez Cédric Dauvillier, Digital Workplace Manager, pour une démo complète grâce au Surface Hub de afin d'animer des ateliers avec des équipes \"hybrides\". Pour nous rejoindre ➡️",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rejoindre",
+          "score": 0.3224263468892237
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        }
+      ]
+    },
+    {
+      "id": 1255423282377109506,
+      "created_at": "2020-04-29T09:06:49+00:00",
+      "text": "📺 1 heure avec nos experts Design Thinking : posez toutes vos questions ! C'est maintenant ! Rejoignez-nous ➡️",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 2,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1254767695335051264,
+      "created_at": "2020-04-27T13:41:45+00:00",
+      "text": "📆 Webinaire Design Thinking - Mercredi 29 Avril à 11h ! Retrouvez nos 4 experts pour un webinaire questions/réponses mercredi prochain. Bonnes pratiques, outils et retour d'expériences, venez trouver les réponses à vos questions. Pour vous inscrire ➡️",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1248177116774096896,
+      "created_at": "2020-04-09T09:13:09+00:00",
+      "text": "\"Ce qui est important, c'est de séparer la communication de crise et la communication sur les bonnes pratiques et la démarche d'accompagnement\" C'est les conseils de et de pour sensibiliser les équipes ! Rejoignez nous➡️",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1248173322745065473,
+      "created_at": "2020-04-09T08:58:04+00:00",
+      "text": "Comment accompagner les collaborateurs dans le travail à distance ? Rejoignez notre webinaire, en partenariat avec ➡️",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1248171734886481923,
+      "created_at": "2020-04-09T08:51:46+00:00",
+      "text": "\"Aujourd'hui, le bon outil est celui qui va engager le contact à distance et surtout, c'est un environnement qui créé un hub avec un point d'entrée unique qui donne accès à l'ensemble des informations\" Rejoignez notre webinaire avec ➡️",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1248169844572401666,
+      "created_at": "2020-04-09T08:44:15+00:00",
+      "text": "Quels outils utiliser à distance ? C'est au programme de notre webinaire, en partenariat avec Rejoignez nous➡️",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1248169158623272961,
+      "created_at": "2020-04-09T08:41:31+00:00",
+      "text": "Quels défis pour le télétravail en période de confinement ? C’est au programme de notre webinaire, en partenariat avec Rejoignez nous ➡️",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "télétravail",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1248167293567348736,
+      "created_at": "2020-04-09T08:34:07+00:00",
+      "text": "Manager à distance et maintenir l’engagement des équipes, c’est aujourd’hui le thème de notre webinaire, en partenariat avec . Rejoignez nous ➡️",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1248161326297501697,
+      "created_at": "2020-04-09T08:10:24+00:00",
+      "text": "📅 AUJOURDH'HUI À 10H30 ! Il ne vous reste plus que quelques minutes pour vous inscrire au Webinar \"Manager une équipe à distance en tirant profit de votre Digital Workplace\" avec notre partenaire Rejoingez-nous :",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "workplace",
+          "score": 0.12897053875568948
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1247817954403717120,
+      "created_at": "2020-04-08T09:25:58+00:00",
+      "text": "Comment utiliser OneNote pour suivre votre projet et garder une trace pérenne du travail accompli ? Comment insérer des meeting items pour récupérer des données depuis Outlook dans vos notes ? Rejoignez notre Webinar ! ➡️",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        }
+      ]
+    },
+    {
+      "id": 1247816801465090049,
+      "created_at": "2020-04-08T09:21:23+00:00",
+      "text": "Organiser son projet en \"canaux\" pour mieux canaliser les informations. C'est les conseils de pour animer son comité projet ! Cela vous intéresse ? Rejoignez notre Webinar ! ➡️",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        }
+      ]
+    },
+    {
+      "id": 1247815253972353024,
+      "created_at": "2020-04-08T09:15:14+00:00",
+      "text": "Créer une équipe projet, ajouter des collaborateurs externes, s'adresser à son équipe... autant de sujets abordés dans notre Webinar COMMENT ANIMER MON COMITE PROJET A DISTANCE ? Rejoignez-nous ! ➡️",
+      "public_metrics": {
+        "like_count": 2,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        }
+      ]
+    },
+    {
+      "id": 1247805026296160256,
+      "created_at": "2020-04-08T08:34:36+00:00",
+      "text": "Comment uniformiser le travail à distance tout en assurant un rôle de coordinateur ? 💻AUJOURDH'HUI À 11H00 ! Retrouvez tous les conseils de lors du webinaire \" Comment animer mon comité projet à distance?\" Rejoingez-nous :➡️",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        }
+      ]
+    },
+    {
+      "id": 1247499881914253312,
+      "created_at": "2020-04-07T12:22:03+00:00",
+      "text": "💻WEBINAIRE : Comment animer mon comité projet à distance ? Conserver le contact avec son équipe, assurer le rôle de guide, uniformiser le travail à distance... Cela vous intéresse ? Rendez-vous demain 08/04 de 11h à 12h ! Rejoignez-nous :",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 1,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        }
+      ]
+    },
+    {
+      "id": 1247096104111550464,
+      "created_at": "2020-04-06T09:37:35+00:00",
+      "text": "Comment gérer les tâches de tous les utilisateurs et pouvoir les suivre dans un seul canal ? On en parle dans notre webinaire \"Comment maintenir le contact entre les membres de mon équipe malgré la distance ?\" Rejoignez-nous dès à présent :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        }
+      ]
+    },
+    {
+      "id": 1247095171919069184,
+      "created_at": "2020-04-06T09:33:53+00:00",
+      "text": "Quels connecteurs ajouter à une équipe pour faciliter la collaboration en mode agile ? Cela vous intéresse ? Rejoignez-nous dès à présent :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        }
+      ]
+    },
+    {
+      "id": 1247093653010558976,
+      "created_at": "2020-04-06T09:27:51+00:00",
+      "text": "Co-créer, gérer et modifier ses documents avec son équipe : c'est au programme de notre webinaire \"Comment maintenir le contact entre les membres de mon équipe malgré la distance ?\" Cela vous intéresse ? Rejoignez-nous dès à présent :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        }
+      ]
+    },
+    {
+      "id": 1247087557755768832,
+      "created_at": "2020-04-06T09:03:38+00:00",
+      "text": "Comment maintenir le contact entre les membres de mon équipe malgré la distance ? Cela vous intéresse ? Rejoignez-nous dès à présent :",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        }
+      ]
+    },
+    {
+      "id": 1247076771696128001,
+      "created_at": "2020-04-06T08:20:46+00:00",
+      "text": "AUJOURDH'HUI À 11H ! Il vous reste quelques minutes pour vous inscrire à notre Webinar \"Comment maintenir le contact entre les membres de mon équipe en contexte de travail à distance\" ➡️ À tout à l'heure!",
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "inscrire",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1245283342536376321,
+      "created_at": "2020-04-01T09:34:19+00:00",
+      "text": "Organiser son projet en \"canaux\" pour mieux canaliser les informations. C'est les conseils de pour animer son comité projet ! Cela vous intéresse ? Rejoignez notre Webinar !",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        }
+      ]
+    },
+    {
+      "id": 1245281677431263232,
+      "created_at": "2020-04-01T09:27:42+00:00",
+      "text": "Comment utiliser OneNote pour suivre votre projet et garder une trace pérenne du travail accompli ? Comment insérer des meeting items pour récupérer des données depuis Outlook dans vos notes ? Rejoignez notre Webinar !",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "travail",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        }
+      ]
+    },
+    {
+      "id": 1245278669377069057,
+      "created_at": "2020-04-01T09:15:45+00:00",
+      "text": "Comment utiliser d'autres applications pour mon suivi d'actions avec mes collaborateurs sur Teams ? Rejoignez notre Webinar !",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        }
+      ]
+    },
+    {
+      "id": 1245277300880560130,
+      "created_at": "2020-04-01T09:10:19+00:00",
+      "text": "Créer une équipe projet, ajouter des collaborateurs externes, s'adresser à son équipe... autant de sujets abordés dans notre Webinar COMMENT ANIMER MON COMITE PROJET A DISTANCE ? Rejoignez-nous !",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "équipe",
+          "score": 0.2708381313869479
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        }
+      ]
+    },
+    {
+      "id": 1244922585890119681,
+      "created_at": "2020-03-31T09:40:48+00:00",
+      "text": "Tester son prototype à distance est un véritable défi ! Venez découvrir Testapic ! Pour en savoir plus sur l’outil Testapic, c’est par là : Des questions ?",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "découvrir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1244919929993863170,
+      "created_at": "2020-03-31T09:30:15+00:00",
+      "text": "Préparer, animer et restituer un atelier Design Thinking avec 10 participants à distance, c'est un vrai challenge pour nos amis Design Thinker ! Pour venir échanger avec nous c’est par ici : L’outil Klaxoon, c’est par là :",
+      "public_metrics": {
+        "like_count": 4,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        },
+        {
+          "topic": "venir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1244917881743253505,
+      "created_at": "2020-03-31T09:22:07+00:00",
+      "text": "Comment définir une carte des parties prenantes, qui permet de formaliser l’écosystème sous forme de mapping et d’identifier les bons personae, à distance ? Et pour en savoir plus sur l’outil Mural, c’est par là :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1244917495934472198,
+      "created_at": "2020-03-31T09:20:35+00:00",
+      "text": "Découvrez tous nos conseils et astuces pour synthétiser visuellement votre atelier dans un mindmap en utilisant l’outil Xmind. Pour venir échanger avec nous c’est par ici : Pour en savoir plus sur l’outil Xmind, c’est par là :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "venir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1244916574412308481,
+      "created_at": "2020-03-31T09:16:55+00:00",
+      "text": "Appel à tous les Design Thinkers : animer son atelier en remote, c’est possible ! Pour venir échanger avec nous c’est par ici : Et pour en savoir plus sur l’outil Miro :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "outil",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        },
+        {
+          "topic": "venir",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1244914238428192768,
+      "created_at": "2020-03-31T09:07:38+00:00",
+      "text": "Le webinar « Comment animer des ateliers Design Thinking à distance 👩‍💻 ? » vient de commencer ! Vous pouvez encore vous connecter ici :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1244905711169089537,
+      "created_at": "2020-03-31T08:33:45+00:00",
+      "text": "📺 WEBINAIRE : Comment animer des ateliers Design Thinking à distance 👩‍💻 ? Rendez-vous aujourd’hui de 11h à 12h Pour nous rejoindre, rien de plus simple ⬇️",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "rejoindre",
+          "score": 0.3224263468892237
+        },
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "webinaire",
+          "score": 0.21924991588467213
+        },
+        {
+          "topic": "animer",
+          "score": 0.16766170038239633
+        },
+        {
+          "topic": "design",
+          "score": 0.11607348488012054
+        }
+      ]
+    },
+    {
+      "id": 1241010380140351490,
+      "created_at": "2020-03-20T14:35:06+00:00",
+      "text": "🖥️ WEBINAR : Cadrage digitalisé 🖥️ Pour ce premier webinar solidaire, gratuit et ouvert à tous, Saegus vous donne toutes les clés pour continuer à cadrer à distance les projets, produits ou services, de l'idée jusqu'à la vision et au backlog associé.",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "distance",
+          "score": 0.28373518526251684
+        },
+        {
+          "topic": "projet",
+          "score": 0.2063528620091032
+        },
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "digital",
+          "score": 0.1547646465068274
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    },
+    {
+      "id": 1240929005903187968,
+      "created_at": "2020-03-20T09:11:45+00:00",
+      "text": "Saegus lance une série de webinars publics pour partager largement nos expertises sur ces sujets d’animation, facilitation et collaboration. Nous vous proposons des sessions dédiées si vous souhaitez approfondir les sujets évoqués. Inscriptions :",
+      "public_metrics": {
+        "like_count": 0,
+        "retweet_count": 0,
+        "reply_count": 0
+      },
+      "main_topics": [
+        {
+          "topic": "webinar",
+          "score": 0.18055875425796528
+        },
+        {
+          "topic": "rt",
+          "score": 0.1547646465068274
+        }
+      ]
+    }
+  ]
+}

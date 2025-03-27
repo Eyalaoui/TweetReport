@@ -1,0 +1,39 @@
+Rapport d'analyse des tweets Saegus
+================================
+
+1. Statistiques générales
+------------------------
+Nombre total de tweets : 100
+Période : du 2020-03-20 au 2023-06-02
+Engagement total moyen : 2.32
+
+2. Distribution par jour
+------------------------
+Monday: 10.0 tweets, engagement moyen: 1.10
+Tuesday: 22.0 tweets, engagement moyen: 1.09
+Wednesday: 28.0 tweets, engagement moyen: 1.32
+Thursday: 31.0 tweets, engagement moyen: 4.87
+Friday: 9.0 tweets, engagement moyen: 1.00
+Saturday: nan tweets, engagement moyen: nan
+Sunday: nan tweets, engagement moyen: nan
+
+3. Top 5 des sujets les plus fréquents
+------------------------------------
+rt: 43 mentions
+travail: 28 mentions
+distance: 20 mentions
+équipe: 19 mentions
+webinaire: 16 mentions
+
+4. Top 5 des sujets par engagement
+--------------------------------
+rt: 4.12 d'engagement moyen
+retrouver: 2.00 d'engagement moyen
+nouveau: 2.00 d'engagement moyen
+télétravail: 1.92 d'engagement moyen
+travail: 1.43 d'engagement moyen
+
+5. Meilleur moment pour tweeter
+----------------------------
+Heure avec le plus d'engagement : 19h00 (15.33 d'engagement moyen)
+Jour avec le plus d'engagement : Thursday (4.87 d'engagement moyen)
