@@ -13,14 +13,12 @@ def load_tweets(file_path='tweets_with_topics.json'):
         df = pd.DataFrame(data['tweets'])
         df['created_at'] = pd.to_datetime(df['created_at'])
         
-        # Extraction des métriques imbriquées
         metrics_df = pd.json_normalize(df['public_metrics'])
         df = pd.concat([df.drop('public_metrics', axis=1), metrics_df], axis=1)
         
         return df
 
 def save_plotly_figure(fig, filename):
-    # Convertir les tableaux numpy en listes Python
     def convert_numpy(obj):
         if isinstance(obj, np.ndarray):
             return obj.tolist()
@@ -36,10 +34,8 @@ def save_plotly_figure(fig, filename):
             return {key: convert_numpy(value) for key, value in obj.items()}
         return obj
     
-    # Convertir la figure en dictionnaire et nettoyer les données
     fig_dict = fig.to_dict()
     
-    # Nettoyer les données
     for trace in fig_dict['data']:
         if 'x' in trace:
             trace['x'] = convert_numpy(trace['x'])
@@ -52,7 +48,6 @@ def save_plotly_figure(fig, filename):
         if 'labels' in trace:
             trace['labels'] = convert_numpy(trace['labels'])
     
-    # Nettoyer le layout
     layout_dict = fig_dict['layout']
     if 'xaxis' in layout_dict:
         if 'range' in layout_dict['xaxis']:
@@ -61,7 +56,6 @@ def save_plotly_figure(fig, filename):
         if 'range' in layout_dict['yaxis']:
             layout_dict['yaxis']['range'] = convert_numpy(layout_dict['yaxis']['range'])
     
-    # Sauvegarder le graphique en HTML avec les données intégrées
     html_content = f"""
     <!DOCTYPE html>
     <html>
@@ -106,7 +100,6 @@ def create_visualizations():
         
     df = load_tweets()
     
-    # Configuration commune pour tous les graphiques
     layout_config = {
         'template': 'plotly_white',
         'height': 500,
@@ -114,23 +107,18 @@ def create_visualizations():
         'font': dict(family='Arial', size=12)
     }
     
-    # 1. Distribution des tweets par jour de la semaine
     df['day_of_week'] = df['created_at'].dt.day_name()
     day_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     tweets_by_day = df['day_of_week'].value_counts().reindex(day_order)
     
-    # 2. Distribution des tweets par heure
     df['hour'] = df['created_at'].dt.hour
     tweets_by_hour = df['hour'].value_counts().sort_index()
     
-    # 3. Engagement par jour de la semaine
     df['engagement'] = df['retweet_count'] + df['like_count'] + df['reply_count']
     engagement_by_day = df.groupby('day_of_week')['engagement'].mean().reindex(day_order)
     
-    # 4. Engagement par heure
     engagement_by_hour = df.groupby('hour')['engagement'].mean()
     
-    # 5. Analyse des sujets principaux
     all_topics = []
     for topics in df['main_topics']:
         for topic in topics:
@@ -138,7 +126,6 @@ def create_visualizations():
     
     topic_counts = pd.Series(all_topics).value_counts()
     
-    # 6. Engagement par sujet
     topic_engagement = {}
     for idx, row in df.iterrows():
         for topic in row['main_topics']:
@@ -151,7 +138,6 @@ def create_visualizations():
     
     top_15_topics = list(topic_avg_engagement.items())[:15]
     
-    # Création du dashboard complet
     dashboard_layout = {
         'template': 'plotly_white',
         'height': 1200,
@@ -173,7 +159,6 @@ def create_visualizations():
         )
     )
     
-    # Ajout des graphiques au dashboard
     fig_dashboard.add_trace(
         go.Bar(
             x=tweets_by_day.index,
@@ -237,7 +222,6 @@ def create_visualizations():
     fig_dashboard.update_layout(**dashboard_layout)
     save_plotly_figure(fig_dashboard, 'graphs/dashboard.html')
     
-    # Générer un rapport textuel
     with open('graphs/stats_report.txt', 'w', encoding='utf-8') as f:
         f.write("Rapport d'analyse des tweets Saegus\n")
         f.write("================================\n\n")
