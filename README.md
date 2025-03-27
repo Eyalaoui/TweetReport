@@ -3,6 +3,9 @@
 ## 🎯 Le Projet
 J'ai développé ce projet pour analyser les tweets de Saegus France et comprendre les tendances de communication sur leur compte Twitter. L'objectif était de créer un dashboard interactif permettant de visualiser les patterns d'engagement et les sujets principaux.
 
+## 🌐 Visualisation en Ligne
+Vous pouvez voir les graphiques d'analyse en ligne sur : [https://eyalaoui.github.io/TweetReport/](https://eyalaoui.github.io/TweetReport/)
+
 ## 🚀 Mon Parcours
 
 ### 1. La Récupération des Données
